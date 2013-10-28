@@ -1,12 +1,10 @@
 {
   "name": "dropbox-datastore-backbone",
   "author": "Joe Kane",
-  "description": "dropbox datastore to do list with backbone",
+  "description": "dropbox datastore to-do list with backbone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "connect": "~2.9.2",
-    "express": "~3.4.3"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -25,7 +23,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/kanejoe/files.git"
+    "url": "https://github.com/kanejoe/backbone-dropbox-datastore.git"
   },
   "license": "BSD"
 }

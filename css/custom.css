@@ -1,0 +1,7 @@
+.intro {
+	font-family: 'Istok Web', Georgia;
+	-webkit-text-stroke: 0.3px;
+}
+
+td.completed { text-decoration: line-through; color: #bbb; }
+

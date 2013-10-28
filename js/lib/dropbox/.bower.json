@@ -1,0 +1,14 @@
+{
+  "name": "dropbox",
+  "homepage": "https://github.com/dropbox/dropbox-js",
+  "version": "0.10.2",
+  "_release": "0.10.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.10.2",
+    "commit": "b804521a81ead10f4ab837478ec73e1bac962fe8"
+  },
+  "_source": "git://github.com/dropbox/dropbox-js.git",
+  "_target": "~0.10.1",
+  "_originalSource": "dropbox"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jquery-serializeForm",
+  "homepage": "https://github.com/danheberden/jquery-serializeForm",
+  "version": "1.1.4",
+  "_release": "1.1.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.4",
+    "commit": "2ab2b468186cd91d9a1a8ccc6352fd94af588777"
+  },
+  "_source": "git://github.com/danheberden/jquery-serializeForm.git",
+  "_target": "~1.1.4",
+  "_originalSource": "jquery-serializeForm"
+}
